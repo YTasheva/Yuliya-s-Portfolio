@@ -14,7 +14,7 @@
 
 ## Overview
 
-### The challenge
+### The Challenge
 
 -  A portfolio of work to showcase my skills and talents to employers looking to fill a part-time or full-time position.
 
@@ -47,12 +47,12 @@
 - Live Site URL: https://ytasheva.github.io/Yuliya-s-Portfolio/  
 ## My process
 
-### Build with
+### Build With
 
 - Semantic HTML
 - CSS
 
-### What I learned
+### What I Learned
 
 - Using flexbox, media queries, and CSS variables.
 
