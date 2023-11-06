@@ -44,8 +44,7 @@
 ### Links
 
 - Solution URL: https://github.com/YTasheva/Yuliya-s-Portfolio
-- Live Site URL:
-  
+- Live Site URL: https://ytasheva.github.io/Yuliya-s-Portfolio/  
 ## My process
 
 ### Build with
