@@ -39,7 +39,7 @@
   
 ### Screenshot
 
-![Screenshot Portfolio 1](https://github.com/YTasheva/Yuliya-s-Portfolio/assets/148258557/3a90c3ff-0c03-4820-a4df-d30702bc5060)
+![Screenshot Portfolio 1](https://github.com/YTasheva/Yuliya-s-Portfolio/assets/148258557/5f69b526-7a03-4364-ac90-e558e945dab2)
 ![Screenshot Portfolio 2](https://github.com/YTasheva/Yuliya-s-Portfolio/assets/148258557/82039685-7029-4f2e-a8a1-cfa3402166e2)
 
 ### Links
