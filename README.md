@@ -48,7 +48,7 @@
 - Live Site URL: https://ytasheva.github.io/Yuliya-s-Portfolio/  
 ## My process
 
-### Build With
+### Built With
 
 - Semantic HTML
 - CSS
