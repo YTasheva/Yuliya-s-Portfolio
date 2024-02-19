@@ -1,4 +1,14 @@
-# Yuliya's Portfolio
+<h1 align="center">Yuliya's Portfolio</h1>
+  <br>
+  <a href="https://github.com/YTasheva">
+      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg?style=for-thebadge" alt=""></a>
+  <a href="https://github.com/YTasheva/Yuliya-s-Portfolio/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/YTasheva/yuliya-s-portfolio.svg?style=for-the-badge" alt=""></a>
+  <a href="https://github.com/YTasheva/Yuliya-s-Portfolio/issues">
+      <img src="https://img.shields.io/github/issues/YTasheva/yuliya-s-portfolio.svg?style=for-the-badge" alt=""></a>
+  <a href="https://github.com/YTasheva/Yuliya-s-Portfolio/network/members">
+      <img src="https://img.shields.io/github/forks/YTasheva/yuliya-s-portfolio.svg?style=for-the-badge" alt=""></a>
+      
 
 ## Table of contents
 
